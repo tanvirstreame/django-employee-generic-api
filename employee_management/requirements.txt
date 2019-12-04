@@ -11,7 +11,7 @@ cupshelpers==1.0
 defer==1.0.6
 distro==1.3.0
 distro-info===0.18ubuntu0.18.10.2
-Django==2.2.1
+Django==2.2.8
 django-filter==2.1.0
 djangorestframework==3.9.4
 djangorestframework-simplejwt==4.3.0
