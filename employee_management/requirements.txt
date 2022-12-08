@@ -3,7 +3,7 @@ asn1crypto==0.24.0
 autopep8==1.4.4
 blinker==1.4
 Brlapi==0.6.7
-certifi==2018.8.24
+certifi==2022.12.7
 chardet==3.0.4
 command-not-found==0.3
 cryptography==2.3
